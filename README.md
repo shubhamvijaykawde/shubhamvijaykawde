@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shubhamvijaykawde
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning machine learning
+- 🌱 I’m currently learning Data Science
 - 📫 How to reach me -> svkawde22@gmail.com
 
 <!---
